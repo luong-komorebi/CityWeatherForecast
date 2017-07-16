@@ -36,5 +36,8 @@
     "react-sparklines": "^1.6.0",
     "redux": "^3.0.4",
     "redux-promise": "^0.5.3"
+  },
+  "engines": {
+    "node": "8.1.2"
   }
 }
