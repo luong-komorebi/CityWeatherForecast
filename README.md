@@ -16,7 +16,7 @@ Unix-like OS only. For Windows you may need to alter some parts.
 $ git clone https://github.com/LewisVo/CityWeatherForecast
 $ cd CityWeatherForecast
 $ npm install
-$ npm start
+$ npm run start
 ```
 Go to `localhost:8080` to view the result.  
 Also, please replace the api keys in `actions/index.js`. Don't use my api keys. 
